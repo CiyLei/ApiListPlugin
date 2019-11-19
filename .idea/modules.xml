@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ApiListTool.iml" filepath="$PROJECT_DIR$/ApiListTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.ciy.apilist.ApiListPlugin.iml" filepath="$PROJECT_DIR$/.idea/modules/com.ciy.apilist.ApiListPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.ciy.apilist.ApiListPlugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.ciy.apilist.ApiListPlugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.ciy.apilist.ApiListPlugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.ciy.apilist.ApiListPlugin.test.iml" />
     </modules>
   </component>
 </project>

@@ -1,9 +1,12 @@
 package com.ciy.apilist;
 
 import com.ciy.apilist.util.JTextFieldHintListener;
+import com.google.gson.Gson;
 
 import javax.swing.*;
 import java.awt.event.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class InputDialog extends JDialog {
     private JPanel contentPane;
@@ -11,7 +14,7 @@ public class InputDialog extends JDialog {
     private JButton buttonCancel;
     private JButton btnGo;
     private JTextField tfUrl;
-    private JTextArea textArea1;
+    private JTextArea taResponse;
 
     public InputDialog() {
         setContentPane(contentPane);
